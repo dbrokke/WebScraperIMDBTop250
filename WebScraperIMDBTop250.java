@@ -1,3 +1,11 @@
+/* ****************************************************
+ * Author: Danny Brokke (dannybrokke@live.com)
+ * Desc: Java program that utilizes the JSoup library to
+ * scrape the IMDB Top 250 Movies page. The last section
+ * of the program recommends a random movie.
+   ****************************************************
+*/
+
 // Importing JSoup classes as well as the Random class.
 package WebScraper;
 import org.jsoup.Jsoup;
